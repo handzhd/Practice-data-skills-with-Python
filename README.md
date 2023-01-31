@@ -13,11 +13,13 @@ Project created with:
 ## References
 The references used during this learning process.
 
+[Data](https://en.wikipedia.org/wiki/List_of_helicopter_prison_escapes#Actual_attempts)
+[Guide](https://www.dataquest.io/course/for-loops-and-conditional-statements-in-python/)
+
+Other
 ```
-https://www.dataquest.io/course/for-loops-and-conditional-statements-in-python/
 https://stackoverflow.com/
 https://www.geeksforgeeks.org/
-
 ```
 
 #### Notes

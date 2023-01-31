@@ -13,7 +13,7 @@ Project created with:
 The references used during this learning process.
 
 ```
-https://www.dataquest.io/course/for-loops-and-conditional-statements-in-python/
+I used [helper](https://www.dataquest.io/course/for-loops-and-conditional-statements-in-python/) for this project
 https://stackoverflow.com/
 https://www.geeksforgeeks.org/
 

@@ -21,5 +21,4 @@ https://www.geeksforgeeks.org/
 
 #### Notes
 This repository will keep updating in the future
-
- 
+[helper](https://www.dataquest.io/course/for-loops-and-conditional-statements-in-python/)

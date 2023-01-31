@@ -8,12 +8,13 @@ Project created with:
 * Visual Studio Code
 * Python 3.10.8
 * Pandas 1.5.3
+* [helper](https://www.dataquest.io/course/for-loops-and-conditional-statements-in-python/)
 
 ## References
 The references used during this learning process.
 
 ```
-I used [helper](https://www.dataquest.io/course/for-loops-and-conditional-statements-in-python/) for this project
+https://www.dataquest.io/course/for-loops-and-conditional-statements-in-python/
 https://stackoverflow.com/
 https://www.geeksforgeeks.org/
 
@@ -21,4 +22,3 @@ https://www.geeksforgeeks.org/
 
 #### Notes
 This repository will keep updating in the future
-[helper](https://www.dataquest.io/course/for-loops-and-conditional-statements-in-python/)
